@@ -7,15 +7,14 @@ class Test{
     private String e = "kjcvb";
     private int c = 10;
     int dob = 546;
-
-
-
-
-
-
       public m2()
       {
         //bug2;
       }
+    public m1()
+    {
+        //logic for bug
+    }
+
 
 }
