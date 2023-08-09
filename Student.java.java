@@ -8,4 +8,14 @@ class Test{
     private int c = 10;
     int dob = 546;
 
+
+
+
+
+
+      public m2()
+      {
+        //bug2;
+      }
+
 }
